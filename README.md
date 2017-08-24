@@ -1,2 +1,2 @@
 # Gitsune
-git test for Kitsne.
+git test for Kitsune.
